@@ -11,7 +11,7 @@ module.exports = {
   },
   extends: [
     'plugin:vue/essential',
-    '@vue/standard'
+    // '@vue/standard'
   ],
   parserOptions: {
     parser: '@babel/eslint-parser',
