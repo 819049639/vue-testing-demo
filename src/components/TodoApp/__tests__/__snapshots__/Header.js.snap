@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header.vue snapshot 1`] = `
+<header class="header">
+  <h1>todos</h1> <input data-testid="new-todo" placeholder="What needs to be done?" autofocus="autofocus" class="new-todo">
+</header>
+`;

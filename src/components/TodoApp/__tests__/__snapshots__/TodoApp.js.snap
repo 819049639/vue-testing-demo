@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoApp.vue snapshot 1`] = `
+<section class="todoapp">
+  <header-stub></header-stub>
+  <section class="main"><input data-testid="toggle-all" id="toggle-all" type="checkbox" class="toggle-all"> <label for="toggle-all">Mark all as complete</label>
+    <ul class="todo-list">
+      <item-stub todo="[object Object]"></item-stub>
+      <item-stub todo="[object Object]"></item-stub>
+      <item-stub todo="[object Object]"></item-stub>
+    </ul>
+  </section>
+  <footer-stub todos="[object Object],[object Object],[object Object]"></footer-stub>
+</section>
+`;
